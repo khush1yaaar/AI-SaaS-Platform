@@ -1,3 +1,14 @@
+### About the Project
+
+  • Developed an AI-SaaS platform, offering 5 functionalities - conversational bot, code, image, video, and music generation.
+  
+  • Enacted secure Authentication secure Authentication using clerk, ensuring 99% data protection and seamless user access.
+  
+  • Used openAI model for chatbot and code generation, DALL-E for images, Riffusion for music generation and ZeroScope
+  for video generation.
+  
+  • Offered 10 free trials 10 free trials and introduced a Premium feature, offering unlimited usage Premium feature, offering unlimited usage functionality.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
